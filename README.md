@@ -8,7 +8,7 @@
 
 1) Задание находится в общей доступности (public)
 2) Ссылка на задание : https://github.com/Parabellum1997/Rekruto
-3) SECRET_KEY находится в файле settings.py : django-insecure-z)0)k^v0z=4vi@avw$9gyaciw%g86*f_#qcn+41ljz!jz9nu29
+3) SECRET_KEY находится в файле settings.py : 
 
 4) Запускать через консоль посредством команды “python manage.py runserver”
 
